@@ -1,0 +1,12 @@
+{
+
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    },
+    "require": {
+        "pfinal/wechat": "^1.8"
+    }
+}
